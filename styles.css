@@ -1,1 +1,18 @@
 /* your code */
+table {
+	padding: 10px;
+	border: 1px solid black;
+}
+table tr th, table tr td {
+	width: 100px
+}
+table thead tr th {
+	/* padding: 0 30px; */
+	/* border: 1px solid */
+	/* text-align: center */
+}
+table tbody tr td {
+	padding: 0 30px
+	/* text-align: center */
+
+}
